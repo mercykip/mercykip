@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-My name is Mercy Jemosop, a full stack developer developing projects with flutter, angular and java. I have 2 years working experience as a software develope.
+My name is Mercy Jemosop, a full stack developer developing projects with flutter, angular and java. I have 3 years working experience as a software develope.
 
 
 - 🔭 I’m currently learning and improving my skills in spring-boot framework.
